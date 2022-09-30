@@ -9,7 +9,7 @@
 <a href="https://barbosacaio.github.io/lista-de-tarefas/" target="_blank">Lista de Tarefas</a>
 
 <h3>Tutorial</h3>
-<p>https://www.makeuseof.com/how-to-build-todo-list-app-using-javascript/</p>
+<a href="https://www.makeuseof.com/how-to-build-todo-list-app-using-javascript/" target="_blank">MakeUseOf - TODO List App</a>
 
 <h3>Preview</h3>
 <img alt="Preview Lista de Tarefas" src="Preview_ListaDeTarefas.png">
