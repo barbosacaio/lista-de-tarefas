@@ -9,4 +9,4 @@
 <p>https://www.makeuseof.com/how-to-build-todo-list-app-using-javascript/</p>
 
 <h3>Preview</h3>
-<img alt="Preview Lista de Tarefas" src="Preview-ListaDeTarefas">
+<img alt="Preview Lista de Tarefas" src="Preview_ListaDeTarefas">
